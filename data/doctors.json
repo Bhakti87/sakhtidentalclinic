@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "name": "Dr. Anupriya",
+    "role": "Founder & General Dentist",
+    "experience": "20+ Years",
+    "description": "Founder of Sakthi Dental Clinic, practicing since 2000. Former consultant at Mathura Clinic and Primary Health Center, Chandara Hospital. Expert in modern and patient-centric dental care."
+  },
+  {
+    "id": 2,
+    "name": "Dr. Ananya Iyer",
+    "role": "Prosthodontist",
+    "experience": "Specialist",
+    "description": "Expert in artificial dentures, crowns and smile restoration treatments."
+  },
+  {
+    "id": 3,
+    "name": "Dr. Meera Subramanian",
+    "role": "Endodontist",
+    "experience": "Specialist",
+    "description": "Specialist in root canal treatments and advanced tooth pain management."
+  },
+  {
+    "id": 4,
+    "name": "Dr. Arvind Kumar",
+    "role": "Dental Surgeon",
+    "experience": "Specialist",
+    "description": "Performs general dental surgeries and advanced oral procedures."
+  },
+  {
+    "id": 5,
+    "name": "Dr. Sneha N",
+    "role": "Orthodontist",
+    "experience": "Specialist",
+    "description": "Expert in braces and teeth alignment treatments for children and adults."
+  },
+  {
+    "id": 6,
+    "name": "Dr. Srinivas Rohit Ramanujam",
+    "role": "Implantologist",
+    "experience": "Specialist",
+    "description": "Specialist in dental implant surgeries and full mouth rehabilitation."
+  },
+  {
+    "id": 7,
+    "name": "Dr. Balu",
+    "role": "Laser Surgeon",
+    "experience": "Specialist",
+    "description": "Performs advanced laser dental procedures with minimal pain and fast healing."
+  },
+  {
+    "id": 8,
+    "name": "Dr. Vikram Raj Kishore",
+    "role": "Aligners Partner",
+    "experience": "Specialist",
+    "description": "Specialist in clear aligner orthodontic treatments."
+  },
+  {
+    "id": 9,
+    "name": "Dr. Ajay Kumar",
+    "role": "Oral & Maxillofacial Surgeon",
+    "experience": "Specialist",
+    "description": "Handles complex oral surgeries, jaw treatments and facial trauma cases."
+  }
+]

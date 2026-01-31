@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Teeth Cleaning & Scaling",
+    "description": "Advanced non-surgical gum care using modern laser technology to remove plaque and tartar.",
+    "image":"Teeth Cleaning.png"
+    
+  },
+  {
+    "id": 2,
+    "name": "Tooth Filling",
+    "description": "High-quality composite fillings to restore damaged teeth and prevent further decay.",
+    "image": "Tooth-Filling.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Tooth Extraction",
+    "description": "Safe and painless removal of severely damaged or impacted teeth.",
+    "image":"Teeth Extraction.png"
+
+    
+    
+  },
+  {
+    "id": 4,
+    "name": "Artificial Complete Denture",
+    "description": "Custom-made full mouth dentures to restore smile and chewing function.",
+    "image": "Artificial Complete Denture.png"
+  },
+  {
+    "id": 5,
+    "name": "Dental Implants",
+    "description": "Permanent replacement of missing teeth using biocompatible titanium implants.",
+    "image": "Impants.png"
+  },
+  {
+    "id": 6,
+    "name": "Laser Dentistry",
+    "description": "Minimally invasive laser treatments for faster healing and precision.",
+    "image": "Laser-Surgery.png"
+  },
+  {
+    "id": 7,
+    "name": "Root Canal Therapy",
+    "description": "Treatment to remove infected pulp and save natural teeth.",
+    "image": "Root Canal Treatment.png"
+    
+  },
+  {
+    "id": 8,
+    "name": "Orthodontic Braces",
+    "description": "Braces to correct misaligned teeth and improve bite.",
+    "image": "Orthodonic-Treatment.png"
+  },
+  
+  {
+    "id": 9,
+    "name": "Clear Aligners",
+    "description": "Transparent removable aligners for discreet teeth straightening.",
+    "image": "/Aligner.png"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "question": "Can medication completely relieve tooth pain?",
+    "answer": "Not entirely. Long-lasting relief requires identifying and treating the root cause through professional dental care."
+  },
+  {
+    "id": 2,
+    "question": "Does teeth scaling damage enamel or create gaps?",
+    "answer": "No. Scaling safely removes plaque and tartar and does not damage enamel or create gaps."
+  },
+  {
+    "id": 3,
+    "question": "Can fluorosis stains be removed by scaling?",
+    "answer": "No. Fluorosis is an internal stain and may need bleaching, veneers, or crowns."
+  },
+  {
+    "id": 4,
+    "question": "Is a crown necessary after root canal treatment?",
+    "answer": "Yes. A crown protects the treated tooth and prevents fracture."
+  },
+  {
+    "id": 5,
+    "question": "What is the best age for braces?",
+    "answer": "Braces are most effective between 12 and 14 years, but early consultation is recommended."
+  }
+]
